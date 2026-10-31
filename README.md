@@ -12,10 +12,4 @@
 </p> 
 
 <div align="center">
-</div>
-<img
-  src="https://komarev.com/ghpvc/?username=yofishchoco&label=%23Malaysian%20⧽&color=A9A9A9&style=flat-square"
-  alt="Malaysian⧽"
-/>
-
-</p>
+I'm Nakamura/Fishy , a bit rude and Im sometimes insult people , forgave me . A bit mentally unstable and not in a mood for any fights.
