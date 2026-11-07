@@ -11,5 +11,5 @@
 
 </p> 
 
-<div align="center">
+<div align="left">
 I'm Nakamura/Fishy , a bit rude and Im sometimes insult people , forgave me . A bit mentally unstable and not in a mood for any fights.
