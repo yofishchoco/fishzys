@@ -5,8 +5,8 @@
 <div align="center">
 </div>
 <img
-  src="https://komarev.com/ghpvc/?username=yofishchoco&label=%23WDC%204⧽&color=A9A9A9&style=flat-square"
-  alt="WDC 4⧽"
+  src="https://komarev.com/ghpvc/?username=yofishchoco&label=%23WDC%20⧽&color=A9A9A9&style=flat-square"
+  alt="WDC⧽"
 />
 
 </p> 
