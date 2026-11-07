@@ -12,7 +12,5 @@
 </p> 
 
 <div align="center">
-I'm Nakamura/Fishy , a bit rude and Im sometimes insult people , forgave me . A bit mentally unstable and not in a mood for any fights.
-
-<div align="center">
-github is in heavy wip , might rmk in a year or so
+  </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=17&duration=4998&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Tak+tumbuh+tak+melata%2C+tak+sungguh+orang+tak+kata." alt="Typing SVG" /></a>
