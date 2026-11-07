@@ -13,3 +13,6 @@
 
 <div align="center">
 I'm Nakamura/Fishy , a bit rude and Im sometimes insult people , forgave me . A bit mentally unstable and not in a mood for any fights.
+
+<div align="center">
+github is in heavy wip , might rmk in a year or so
